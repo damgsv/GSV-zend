@@ -1,0 +1,12 @@
+{
+    "name": "galicher/gsv",
+    "description": "GSV classes for zend",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Damien",
+            "email": "damien.galicher@galicher.fr"
+        }
+    ],
+    "require": {}
+}
